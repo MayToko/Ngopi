@@ -8432,6 +8432,21 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 ========== LIVE | PROLIGA ===========
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA 2026
+
+#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1767974975~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=198347325~data=hdntl~hmac=c36d829b4dac3c1eaa263ea47cd4b93b8b67c165dc180aa01e64740861c9266f
+
+#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026 SERVER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+####https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=20240
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="LIVE | PROLIGA 2026",MOJI DIGITAL
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -8929,7 +8944,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ctwmSHa.png" group-title="group-title="CHANNEL | SPORTS",CHAMPIONS TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ctwmSHa.png" group-title="CHANNEL | SPORTS",CHAMPIONS TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9806,16 +9821,6 @@ https://mimipipi22.github.io/logo/offline.m3u8
 http://live.catvod.com/live.php?id=go_sportsplus
 https://mimipipi22.github.io/logo/offline.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CHANNEL | SPORTS",ASTRO BADMINTON 1
-http://live.catvod.com/live.php?id=go_badminton1
-https://mimipipi22.github.io/logo/offline.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CHANNEL | SPORTS",ASTRO BADMINTON 1
-http://live.catvod.com/live.php?id=go_badminton2
-https://mimipipi22.github.io/logo/offline.m3u8
-
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="CHANNEL | SPORTS",NBA TV (SMT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://live.catvod.com/live.php?id=Nba
@@ -10101,14 +10106,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 //========================================================================
 //MAYTOKO2 LIVE | BADMINTON
 //========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | BADMINTON
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | BADMINTON 2026
 
 
-#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 1
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 1
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 2
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 2
 http://tv.casindo.org/hls/49/49.m3u8
 
 #EXTINF:-1 tvg-id="18249" tvg-logo="https://thumbor.prod.vidiocdn.com/amF9Wv6FlQZq4IbWnIVqFP41azc=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35162/petronas-malaysia-open-2026-round-of-32-court-1-860e8b.jpg" group-title="LIVE | BADMINTON 2026", COURT 1
