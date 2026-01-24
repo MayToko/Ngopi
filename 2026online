@@ -6506,11 +6506,11 @@
 
 
 #EXTM3U billed-msg=".", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
+  url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 
 
-#EXTM3U
+
 
 # --- Timnas Indonesia ---
 
@@ -6685,7 +6685,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
 
 
-#EXTM3U
+
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-10.0 tvg-name="" tvg-id="1" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="CHANNEL | SPORT INDO", Sportstars 4
@@ -7063,7 +7063,6 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
-#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -8081,12 +8080,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA 2026
 
 
-
-#EXTINF:-1 group-title="LIVE | PROLIGA 2026" tvg-logo="#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg", ID:MOJI HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302279.ts", ID:MOJI HD
+#EXTINF:-1 group-title="LIVE | PROLIGA 2026" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg", ID:MOJI HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302279.ts
-
-
 
 
 
@@ -9654,21 +9649,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
 
 
-#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1767974975~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=198347325~data=hdntl~hmac=c36d829b4dac3c1eaa263ea47cd4b93b8b67c165dc180aa01e64740861c9266f
-
-#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026SVR2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
-####https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=20240
-
-
 
 
 
@@ -9679,83 +9659,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/
 =====================================
 #EXTINF:-1 group-logo="https://i.blogs.es/2baaa1/dazn-f1/650_1200.webp",LIVE | DAZN SPORT
 
-#EXTINF:-1 tvg-id="" tvg-name="Basket Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/12/Logo_Lega_Basket_2018.png/250px-Logo_Lega_Basket_2018.png" group-title="LIVE | DAZN SPORT",Basket Serie A
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266106
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 2 Bar FHD DE
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/18393
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 1
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122834
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 2
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122833
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 3
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122832
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 4
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122831
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 5
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122830
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 6
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122829
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 7
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122828
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 8
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122827
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 9
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122826
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 10
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122825
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 11
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122824
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 12
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122823
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 13
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122822
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 14
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122821
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 15
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122820
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 16
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122819
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 17
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122818
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 18
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122817
-#EXTINF:-1,group-title="LIVE | DAZN SPORT",DAZN | DE Event 19
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122846
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 20
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122845
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 21
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122844
-#EXTINF:-1,group-title="LIVE | DAZN SPORT",DAZN | DE Event 22
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122843
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 23
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122842
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 24
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122841
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 25
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122840
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 26
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122839
-#EXTINF:-1,group-title="LIVE | DAZN SPORT",DAZN | DE Event 27
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122838
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 28
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122837
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 29
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122836
-#EXTINF:-1,group-title="LIVE | DAZN SPORT",DAZN | DE Event 30
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122835
-
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 1 
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75441
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 1 FHD 4:3 VIP PT
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/16066
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 2 
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75442
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 3 
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75443
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 4 
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75444
-#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 5 
-http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75445
 
 
 
