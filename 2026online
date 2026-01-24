@@ -8078,16 +8078,10 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA 2026
 
 
-#EXTINF:-1 group-title="LIVE | PROLIGA 2026" tvg-id="moji.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg",MOJITV HD
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Moj.m3u8w
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026",PROLIGA 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=drm
-https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=dash
+#EXTINF:-1 group-title="LIVE | PROLIGA 2026" tvg-logo="#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://i.ibb.co.com/C52WwYt4/shareext-fifa-Live.jpg", ID:MOJI HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302279.ts", ID:MOJI HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302279.ts
 
 
 
