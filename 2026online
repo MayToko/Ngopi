@@ -9671,214 +9671,81 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/
 
 #EXTINF:-1 tvg-id="" tvg-name="Basket Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/12/Logo_Lega_Basket_2018.png/250px-Logo_Lega_Basket_2018.png" group-title="LIVE | DAZN SPORT",Basket Serie A
 http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266106
-#EXTINF:-1 tvg-id="" tvg-name="Acqua S.Bernardo Cantù" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/VMf9WvVUVq96EUCCGzRWyq6P" group-title="LIVE | DAZN SPORT",Acqua S.Bernardo Cantù
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266090
-#EXTINF:-1 tvg-id="" tvg-name="APU Old Wild West Udine" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/A9B7e6zUoFW8SX9MgmMVkfub" group-title="LIVE | DAZN SPORT",APU Old Wild West Udine
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266091
-#EXTINF:-1 tvg-id="" tvg-name="Banco di Sardegna Sassari" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/7bXSNP8ChP8nwEvr6ABptRpi" group-title="LIVE | DAZN SPORT",Banco di Sardegna Sassari
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266092
-#EXTINF:-1 tvg-id="" tvg-name="Bertram Derthona Tortona" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/bjyaP3D5VaYq2vXhUANJNweH" group-title="LIVE | DAZN SPORT",Bertram Derthona Tortona
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266093
-#EXTINF:-1 tvg-id="" tvg-name="Dolomiti Energia Trentino" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/gJsJQzzLu9NxbChwmUH17Lyt" group-title="LIVE | DAZN SPORT",Dolomiti Energia Trentino
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266094
-#EXTINF:-1 tvg-id="" tvg-name="EA7 Emporio Armani Milano" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/57rK52XePLNXZUfwemzo75Fs" group-title="LIVE | DAZN SPORT",EA7 Emporio Armani Milano
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266095
-#EXTINF:-1 tvg-id="" tvg-name="Germani Brescia" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/kqR78DTsdhxNCGTsnEtWzLdZ" group-title="LIVE | DAZN SPORT",Germani Brescia
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266096
-#EXTINF:-1 tvg-id="" tvg-name="Napoli Basketball" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/Ly7aFCoXwJ8w1PXuBXdGrFVu" group-title="LIVE | DAZN SPORT",Napoli Basketball
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266097
-#EXTINF:-1 tvg-id="" tvg-name="NutriBullet Treviso Basket" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/DWqcboTpYk2f7aUcfrtyhx99" group-title="LIVE | DAZN SPORT",NutriBullet Treviso Basket
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266098
-#EXTINF:-1 tvg-id="" tvg-name="Openjobmetis Varese" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/5FYQbQWMYsp9yCFMridRHjeo" group-title="LIVE | DAZN SPORT",Openjobmetis Varese
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266099
-#EXTINF:-1 tvg-id="" tvg-name="Pallacanestro Trieste" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/n7mBcEjt1p6CqM1fpaNLf8Sf" group-title="LIVE | DAZN SPORT",Pallacanestro Trieste
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266100
-#EXTINF:-1 tvg-id="" tvg-name="Trapani Shark" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/HNcKgSFoUKNKf35LhWkbumWw" group-title="LIVE | DAZN SPORT",Trapani Shark
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266101
-#EXTINF:-1 tvg-id="" tvg-name="Umana Reyer Venezia" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/dydjRkm2W7C2Mx2jqxXWN472" group-title="LIVE | DAZN SPORT",Umana Reyer Venezia
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266102
-#EXTINF:-1 tvg-id="" tvg-name="UNA Hotels Reggio Emilia" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/Mpy3yH2Gkym3wVX21n8WpsAs" group-title="LIVE | DAZN SPORT",UNA Hotels Reggio Emilia
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266103
-#EXTINF:-1 tvg-id="" tvg-name="Vanoli Basket Cremona" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/wvyktDdTzbucixEMnPUwjehk" group-title="LIVE | DAZN SPORT",Vanoli Basket Cremona
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266104
-#EXTINF:-1 tvg-id="" tvg-name="Virtus Olidata Bologna" tvg-logo="https://lba-media.s3.eu-south-1.amazonaws.com/HRX9Wp5BEw1nVnA2ArDX64R9" group-title="LIVE | DAZN SPORT",Virtus Olidata Bologna
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266105
-#EXTINF:-1 tvg-id="" tvg-name="Basket Serie A2 " tvg-logo="https://miglior.miweb.cc/copertinenuove/lpn2022/lpn.png" group-title="LIVE | DAZN SPORT",Basket Serie A2 
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266089
-#EXTINF:-1 tvg-id="" tvg-name="Gruppo Lombardi Avellino Basket" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501090.jpg?itok=67Wf9hQe" group-title="LIVE | DAZN SPORT",Gruppo Lombardi Avellino Basket
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249434
-#EXTINF:-1 tvg-id="" tvg-name="Gruppo Mascio Bergamo" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9509.png?itok=VO4Ir1UV" group-title="LIVE | DAZN SPORT",Gruppo Mascio Bergamo
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249435
-#EXTINF:-1 tvg-id="" tvg-name="Flats Service Fortitudo Bologna" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1.png?itok=Rz5ps3OH" group-title="LIVE | DAZN SPORT",Flats Service Fortitudo Bologna
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249436
-#EXTINF:-1 tvg-id="" tvg-name="Valtur Brindisi" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9675.png?itok=DmIcDjH6" group-title="LIVE | DAZN SPORT",Valtur Brindisi
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249437
-#EXTINF:-1 tvg-id="" tvg-name="Sella Cento" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100118.png?itok=WlYVbBKv" group-title="LIVE | DAZN SPORT",Sella Cento
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249439
-#EXTINF:-1 tvg-id="" tvg-name="UEB Gesteco Cividale" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501072.png?itok=etdiYyA3" group-title="LIVE | DAZN SPORT",UEB Gesteco Cividale
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249440
-#EXTINF:-1 tvg-id="" tvg-name="Ferraroni Juvi Cremona" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9612.png?itok=nR2ZCT9c" group-title="LIVE | DAZN SPORT",Ferraroni Juvi Cremona
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249441
-#EXTINF:-1 tvg-id="" tvg-name="Unieuro Forlì" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/10050.png?itok=D2tkf7BD" group-title="LIVE | DAZN SPORT",Unieuro Forlì
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249442
-#EXTINF:-1 tvg-id="" tvg-name="Bi.Emme Service Libertas Livorno" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/13088.png?itok=L_G2i5cI" group-title="LIVE | DAZN SPORT",Bi.Emme Service Libertas Livorno
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249443
-#EXTINF:-1 tvg-id="" tvg-name="Gemini Mestre" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32106.png?itok=SMt_qzGB" group-title="LIVE | DAZN SPORT",Gemini Mestre
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249444
-#EXTINF:-1 tvg-id="" tvg-name="Wegreenit Urania Milano" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32014.png?itok=JV2fUj0K" group-title="LIVE | DAZN SPORT",Wegreenit Urania Milano
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249445
-#EXTINF:-1 tvg-id="" tvg-name="Victoria Libertas Pesaro" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/7.png?itok=JhT3iji9" group-title="LIVE | DAZN SPORT",Victoria Libertas Pesaro
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249446
-#EXTINF:-1 tvg-id="" tvg-name="Estra Pistoia" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9555.png?itok=_RLe8Usx" group-title="LIVE | DAZN SPORT",Estra Pistoia
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249447
-#EXTINF:-1 tvg-id="" tvg-name="RSR Sebastiani Rieti" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501075.png?itok=UppGFArl" group-title="LIVE | DAZN SPORT",RSR Sebastiani Rieti
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249448
-#EXTINF:-1 tvg-id="" tvg-name="Dole Basket Rimini" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100143.png?itok=GeeXKEsp" group-title="LIVE | DAZN SPORT",Dole Basket Rimini
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249449
-#EXTINF:-1 tvg-id="" tvg-name="Liofilchem Roseto" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100083.png?itok=m3nozhSo" group-title="LIVE | DAZN SPORT",Liofilchem Roseto
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249451
-#EXTINF:-1 tvg-id="" tvg-name="Crifo Wines Ruvo di Puglia" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9678.png?itok=zEwKFMzZ" group-title="LIVE | DAZN SPORT",Crifo Wines Ruvo di Puglia
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249452
-#EXTINF:-1 tvg-id="" tvg-name="Givova Scafati" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/35.png?itok=QO4pbO60" group-title="LIVE | DAZN SPORT",Givova Scafati
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249438
-#EXTINF:-1 tvg-id="" tvg-name="Reale Mutua Torino" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100145.png?itok=YU6uAX27" group-title="LIVE | DAZN SPORT",Reale Mutua Torino
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249450
-#EXTINF:-1 tvg-id="" tvg-name="Tezenis Verona" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/13051.png?itok=Y6eb2rtz" group-title="LIVE | DAZN SPORT",Tezenis Verona
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266064
-#EXTINF:-1 tvg-id="" tvg-name="Basket Serie B Gir A" tvg-logo="https://miglior.miweb.cc/copertinenuove/lpn2022/lpn.png" group-title="LIVE | DAZN SPORT",Basket Serie B Gir A
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/248002
-#EXTINF:-1 tvg-id="" tvg-name="Moncada Energy Agrigento" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/13043.png?itok=O3G5r3mJ" group-title="LIVE | DAZN SPORT",Moncada Energy Agrigento
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249422
-#EXTINF:-1 tvg-id="" tvg-name="Infodrive Capo d'Orlando" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100060.png?itok=cW7-w5c0" group-title="LIVE | DAZN SPORT",Infodrive Capo d'Orlando
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249423
-#EXTINF:-1 tvg-id="" tvg-name="Rimadesio Desio" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9710.png?itok=V-cywTiY" group-title="LIVE | DAZN SPORT",Rimadesio Desio
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249424
-#EXTINF:-1 tvg-id="" tvg-name="Foppiani Fulgor Fidenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9548.jpg?itok=6_EfjPDK" group-title="LIVE | DAZN SPORT",Foppiani Fulgor Fidenza
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249425
-#EXTINF:-1 tvg-id="" tvg-name="Fiorenzuola Bees" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32119.png?itok=UOhTs-Sl" group-title="LIVE | DAZN SPORT",Fiorenzuola Bees
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249426
-#EXTINF:-1 tvg-id="" tvg-name="SAE Scientifica-Soevis Legnano" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9608.png?itok=x28JjJL4" group-title="LIVE | DAZN SPORT",SAE Scientifica-Soevis Legnano
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249427
-#EXTINF:-1 tvg-id="" tvg-name="LuxArm Lumezzane" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9535.png?itok=hKxC5SxU" group-title="LIVE | DAZN SPORT",LuxArm Lumezzane
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249428
-#EXTINF:-1 tvg-id="" tvg-name="Novipiù Monferrato Basket" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9587.png?itok=0R1XQweO" group-title="LIVE | DAZN SPORT",Novipiù Monferrato Basket
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249429
-#EXTINF:-1 tvg-id="" tvg-name="Fabo Herons Montecatini" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501116.png?itok=jzlXSmM1" group-title="LIVE | DAZN SPORT",Fabo Herons Montecatini
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249430
-#EXTINF:-1 tvg-id="" tvg-name="La T Tecnica Gema Montecatini" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/11033.png?itok=GAkhAR9c" group-title="LIVE | DAZN SPORT",La T Tecnica Gema Montecatini
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249431
-#EXTINF:-1 tvg-id="" tvg-name="Paffoni Fulgor Basket Omegna" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9703.png?itok=4Li7U6p-" group-title="LIVE | DAZN SPORT",Paffoni Fulgor Basket Omegna
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249432
-#EXTINF:-1 tvg-id="" tvg-name="Logiman Orzinuovi" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32004.png?itok=KD_OkPet" group-title="LIVE | DAZN SPORT",Logiman Orzinuovi
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249433
-#EXTINF:-1 tvg-id="" tvg-name="Bakery Basket Piacenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/12518.jpg?itok=BGPy10ht" group-title="LIVE | DAZN SPORT",Bakery Basket Piacenza
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266065
-#EXTINF:-1 tvg-id="" tvg-name="UCC Assigeco Piacenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9531.png?itok=sA9oOEQF" group-title="LIVE | DAZN SPORT",UCC Assigeco Piacenza
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266066
-#EXTINF:-1 tvg-id="" tvg-name="Siaz Basket Piazza Armerina" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002828.jpg?itok=QvZnbj7I" group-title="LIVE | DAZN SPORT",Siaz Basket Piazza Armerina
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266067
-#EXTINF:-1 tvg-id="" tvg-name="Rucker San Vendemiano" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/100113.png?itok=kXJ25hBa" group-title="LIVE | DAZN SPORT",Rucker San Vendemiano
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266068
-#EXTINF:-1 tvg-id="" tvg-name="TAV Treviglio Brianza Basket" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32088.png?itok=AxM2vqRW" group-title="LIVE | DAZN SPORT",TAV Treviglio Brianza Basket
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266069
-#EXTINF:-1 tvg-id="" tvg-name="S4 Energia Vicenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32100.png?itok=LbxjVeXE" group-title="LIVE | DAZN SPORT",S4 Energia Vicenza
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266070
-#EXTINF:-1 tvg-id="" tvg-name="Elachem Vigevano 1955" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9502.jpg?itok=3OcP1Phj" group-title="LIVE | DAZN SPORT",Elachem Vigevano 1955
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266071
-#EXTINF:-1 tvg-id="" tvg-name="Basket Serie B Gir B" tvg-logo="https://miglior.miweb.cc/copertinenuove/lpn2022/lpn.png" group-title="LIVE | DAZN SPORT",Basket Serie B Gir B
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266126
-#EXTINF:-1 tvg-id="" tvg-name="Paperdi Juvecaserta 2021" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/36002.png?itok=O_DuJdlG" group-title="LIVE | DAZN SPORT",Paperdi Juvecaserta 2021
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266107
-#EXTINF:-1 tvg-id="" tvg-name="Malvin PSA Basket Casoria" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32180.png?itok=RiiHLvlD" group-title="LIVE | DAZN SPORT",Malvin PSA Basket Casoria
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266108
-#EXTINF:-1 tvg-id="" tvg-name="Umana San Giobbe Chiusi" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/1501070.png?itok=xBl5yONk" group-title="LIVE | DAZN SPORT",Umana San Giobbe Chiusi
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266109
-#EXTINF:-1 tvg-id="" tvg-name="Ristopro Fabriano" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/34004.png?itok=HBSgdl6-" group-title="LIVE | DAZN SPORT",Ristopro Fabriano
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266110
-#EXTINF:-1 tvg-id="" tvg-name="Tema Sinergie Faenza" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/32122.jpg?itok=0UzUTxRR" group-title="LIVE | DAZN SPORT",Tema Sinergie Faenza
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266111
-#EXTINF:-1 tvg-id="" tvg-name="Adamant Ferrara" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002829.png?itok=0Q24idDy" group-title="LIVE | DAZN SPORT",Adamant Ferrara
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266112
-#EXTINF:-1 tvg-id="" tvg-name="UP Andrea Costa Imola" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/4.jpg?itok=32YWKMGv" group-title="LIVE | DAZN SPORT",UP Andrea Costa Imola
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266113
-#EXTINF:-1 tvg-id="" tvg-name="Virtus Imola" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/12515.jpg?itok=l-z33klT" group-title="LIVE | DAZN SPORT",Virtus Imola
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266114
-#EXTINF:-1 tvg-id="" tvg-name="General Contractor Jesi" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/30.jpg?itok=SABkKbUC" group-title="LIVE | DAZN SPORT",General Contractor Jesi
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266115
-#EXTINF:-1 tvg-id="" tvg-name="Benacquista Assicurazioni Latina" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9560.png?itok=IAV09fFM" group-title="LIVE | DAZN SPORT",Benacquista Assicurazioni Latina
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266116
-#EXTINF:-1 tvg-id="" tvg-name="Verodol CBD Pielle Livorno" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9431.png?itok=LFqvkih2" group-title="LIVE | DAZN SPORT",Verodol CBD Pielle Livorno
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266117
-#EXTINF:-1 tvg-id="" tvg-name="Power Basket Nocera" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002475.png?itok=yB2_qNN8" group-title="LIVE | DAZN SPORT",Power Basket Nocera
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266118
-#EXTINF:-1 tvg-id="" tvg-name="Consultinvest Loreto Pesaro" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002830.jpg?itok=0XLE6wZZ" group-title="LIVE | DAZN SPORT",Consultinvest Loreto Pesaro
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266119
-#EXTINF:-1 tvg-id="" tvg-name="Solbat Golfo Piombino" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/13086.jpg?itok=6mo5I7rZ" group-title="LIVE | DAZN SPORT",Solbat Golfo Piombino
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266120
-#EXTINF:-1 tvg-id="" tvg-name="Consorzio Leonardo Dany Quarrata" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/5002831.jpg?itok=M9kpSasO" group-title="LIVE | DAZN SPORT",Consorzio Leonardo Dany Quarrata
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266121
-#EXTINF:-1 tvg-id="" tvg-name="OraSì Ravenna" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9629.png?itok=ZLhK3VRw" group-title="LIVE | DAZN SPORT",OraSì Ravenna
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266122
-#EXTINF:-1 tvg-id="" tvg-name="Luiss Roma" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9583.png?itok=UXd35r_E" group-title="LIVE | DAZN SPORT",Luiss Roma
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266123
-#EXTINF:-1 tvg-id="" tvg-name="Virtus GVM Roma 1960" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/11.jpg?itok=ilGO8zi_" group-title="LIVE | DAZN SPORT",Virtus GVM Roma 1960
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266124
-#EXTINF:-1 tvg-id="" tvg-name="Allianz Pazienza San Severo" tvg-logo="https://static.legapallacanestro.com/sites/default/files/styles/thumbnail/public/team_logo/9575.png?itok=8Eb3lkl5" group-title="LIVE | DAZN SPORT",Allianz Pazienza San Severo
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/266125
-#EXTINF:-1 tvg-id="" tvg-name="Volley 1" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 1
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261006
-#EXTINF:-1 tvg-id="" tvg-name="Volley 2" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 2
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261007
-#EXTINF:-1 tvg-id="" tvg-name="Volley 3" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 3
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261008
-#EXTINF:-1 tvg-id="" tvg-name="Volley 4" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 4
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261009
-#EXTINF:-1 tvg-id="" tvg-name="Volley 5" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 5
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261010
-#EXTINF:-1 tvg-id="" tvg-name="Volley 7" tvg-logo="" group-title="LIVE | DAZN SPORT",Volley 7
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/261011
-#EXTINF:-1 tvg-id="" tvg-name="Vetrina NFL" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",Vetrina NFL
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251957
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 1" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 1
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251902
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 2" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 2
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251903
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 3" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 3
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251904
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 4" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 4
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251905
-#EXTINF:-1 tvg-id="" tvg-name="NFL Game Pass 5" tvg-logo="https://logosmig.fyi/gialli/nfl.png" group-title="LIVE | DAZN SPORT",NFL Game Pass 5
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/251906
-#EXTINF:-1 tvg-id="" tvg-name="Vetrina Boxe" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Vetrina Boxe
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249102
-#EXTINF:-1 tvg-id="" tvg-name="Boxe 1" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 1
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249098
-#EXTINF:-1 tvg-id="" tvg-name="Boxe 2" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 2
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249166
-#EXTINF:-1 tvg-id="" tvg-name="Boxe 3" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 3
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249167
-#EXTINF:-1 tvg-id="" tvg-name="Boxe 4" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 4
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249168
-#EXTINF:-1 tvg-id="" tvg-name="Boxe 5" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 5
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249169
-#EXTINF:-1 tvg-id="" tvg-name="Boxe 6" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",Boxe 6
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/249170
-#EXTINF:-1 tvg-id="" tvg-name="MMA 1" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 1
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252947
-#EXTINF:-1 tvg-id="" tvg-name="MMA 2" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 2
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252948
-#EXTINF:-1 tvg-id="" tvg-name="MMA 3" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 3
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252949
-#EXTINF:-1 tvg-id="" tvg-name="MMA 4" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 4
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252950
-#EXTINF:-1 tvg-id="" tvg-name="MMA 5" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 5
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252951
-#EXTINF:-1 tvg-id="" tvg-name="MMA 6" tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 6
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252952
-#EXTINF:-1 tvg-id="" tvg-name="MMA 7 " tvg-logo="https://logosmig.fyi/gialli/box.png" group-title="LIVE | DAZN SPORT",MMA 7 
-http://154.6.60.70:7895/marcoamicodanielesvizzera/55B9FS6cpJ/252953
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 2 Bar FHD DE
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/18393
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 1
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122834
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 2
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122833
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 3
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122832
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 4
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122831
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 5
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122830
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 6
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122829
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 7
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122828
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 8
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122827
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 9
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122826
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 10
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122825
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 11
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122824
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 12
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122823
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 13
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122822
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 14
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122821
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 15
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122820
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 16
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122819
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 17
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122818
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN DE | Event 18
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122817
+#EXTINF:-1,group-title="LIVE | DAZN SPORT",DAZN | DE Event 19
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122846
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 20
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122845
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 21
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122844
+#EXTINF:-1,group-title="LIVE | DAZN SPORT",DAZN | DE Event 22
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122843
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 23
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122842
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 24
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122841
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 25
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122840
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 26
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122839
+#EXTINF:-1,group-title="LIVE | DAZN SPORT",DAZN | DE Event 27
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122838
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 28
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122837
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN | DE Event 29
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122836
+#EXTINF:-1,group-title="LIVE | DAZN SPORT",DAZN | DE Event 30
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/122835
 
-
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 1 
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75441
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 1 FHD 4:3 VIP PT
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/16066
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 2 
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75442
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 3 
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75443
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 4 
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75444
+#EXTINF:-1 group-title="LIVE | DAZN SPORT",DAZN 5 
+http://tv.123tv.to:8080/PVI7bELTYG/8uxQvWtDCS/75445
 
 
 
