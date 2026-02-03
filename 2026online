@@ -14441,3 +14441,380 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90
 #KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
+
+
+############################
+########WORLD-SPORT#########
+
+EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | WORLD SPORT
+
+#EXTINF:-1 tvg-id="ARTSPORT 1_fillgaps" tvg-name="AL: ART Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/kg8CP5X8/ART-Sport-1-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/89515
+#EXTINF:-1 tvg-id="ARTSPORT 2_fillgaps" tvg-name="AL: ART Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/27qtP6wx/ART-Sport-2-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/89516
+#EXTINF:-1 tvg-id="ARTSPORT 3_fillgaps" tvg-name="AL: ART Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/mVTnncdt/ART-Sport-3-AL-logo-v3.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 3 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/89517
+#EXTINF:-1 tvg-id="ARTSPORT 4_fillgaps" tvg-name="AL: ART Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/jkdHW8X5/ART-Sport-4-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 4 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/89518
+#EXTINF:-1 tvg-id="ARTSPORT 5_fillgaps" tvg-name="AL: ART Sport 5 ⁴ᴷ" tvg-logo="https://i.ibb.co/zhDBxm58/ART-Sport-5-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 5 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/89519
+#EXTINF:-1 tvg-id="ARTSPORT 6_fillgaps" tvg-name="AL: ART Sport 6 ⁴ᴷ" tvg-logo="https://i.ibb.co/xtCmqdgG/ART-Sport-6-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 6 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/89520
+#EXTINF:-1 tvg-id="759825" tvg-name="AL: SS-1 ⁴ᴷ" tvg-logo="https://i.ibb.co/5XCXJp9c/upload-912-759825.png" group-title="CHANNEL | WORLD SPORT",AL: SS-1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/43729
+#EXTINF:-1 tvg-id="759825" tvg-name="AL: SS-1 ᴴᴰ" tvg-logo="https://i.ibb.co/5XCXJp9c/upload-912-759825.png" group-title="CHANNEL | WORLD SPORT",AL: SS-1 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1146
+#EXTINF:-1 tvg-id="758172" tvg-name="AL: SS-2 ⁴ᴷ" tvg-logo="https://i.ibb.co/Z1KqnZy1/upload-558-758172.png" group-title="CHANNEL | WORLD SPORT",AL: SS-2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/43728
+#EXTINF:-1 tvg-id="758172" tvg-name="AL: SS-2 ᴴᴰ" tvg-logo="https://i.ibb.co/Z1KqnZy1/upload-558-758172.png" group-title="CHANNEL | WORLD SPORT",AL: SS-2 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1148
+#EXTINF:-1 tvg-id="759827" tvg-name="AL: SS-3 ⁴ᴷ" tvg-logo="https://i.ibb.co/CKxS8LXH/upload-240-759827.png" group-title="CHANNEL | WORLD SPORT",AL: SS-3 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/43727
+#EXTINF:-1 tvg-id="759827" tvg-name="AL: SS-3 ᴴᴰ" tvg-logo="https://i.ibb.co/CKxS8LXH/upload-240-759827.png" group-title="CHANNEL | WORLD SPORT",AL: SS-3 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1150
+#EXTINF:-1 tvg-id="759876" tvg-name="AL: SS-4 ⁴ᴷ" tvg-logo="https://i.ibb.co/chX5F4pq/upload-484-759876.png" group-title="CHANNEL | WORLD SPORT",AL: SS-4 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/43726
+#EXTINF:-1 tvg-id="759876" tvg-name="AL: SS-4 ᴴᴰ" tvg-logo="https://i.ibb.co/chX5F4pq/upload-484-759876.png" group-title="CHANNEL | WORLD SPORT",AL: SS-4 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1152
+#EXTINF:-1 tvg-id="759882" tvg-name="AL: SS-5 ⁴ᴷ" tvg-logo="https://i.ibb.co/KpNFsr2Y/upload-841-759882.png" group-title="CHANNEL | WORLD SPORT",AL: SS-5 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/43725
+#EXTINF:-1 tvg-id="759882" tvg-name="AL: SS-5 ᴴᴰ" tvg-logo="https://i.ibb.co/KpNFsr2Y/upload-841-759882.png" group-title="CHANNEL | WORLD SPORT",AL: SS-5 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1153
+#EXTINF:-1 tvg-id="759884" tvg-name="AL: SS-6 ⁴ᴷ" tvg-logo="https://i.ibb.co/WNQw1xvx/upload-931-759884.png" group-title="CHANNEL | WORLD SPORT",AL: SS-6 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/43724
+#EXTINF:-1 tvg-id="759884" tvg-name="AL: SS-6 ᴴᴰ" tvg-logo="https://i.ibb.co/WNQw1xvx/upload-931-759884.png" group-title="CHANNEL | WORLD SPORT",AL: SS-6 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/2704
+#EXTINF:-1 tvg-id="SuperSport 7" tvg-name="AL: SS-7 ᴴᴰ" tvg-logo="https://i.ibb.co/27FHqKQK/upload-747-759886.png" group-title="CHANNEL | WORLD SPORT",AL: SS-7 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/78732
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring Sport News ⁴ᴷ" tvg-logo="https://i.ibb.co/s2HzjXY/svgexport-1-1.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport News ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30157
+#EXTINF:-1 tvg-id="53451954" tvg-name="AL: Tring Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30153
+#EXTINF:-1 tvg-id="53451954" tvg-name="AL: Tring Sport 1 ᴴᴰ" tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 1 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1169
+#EXTINF:-1 tvg-id="53451955" tvg-name="AL: Tring Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30154
+#EXTINF:-1 tvg-id="53451955" tvg-name="AL: Tring Sport 2 ᴴᴰ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 2 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1170
+#EXTINF:-1 tvg-id="53451956" tvg-name="AL: Tring Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 3 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30155
+#EXTINF:-1 tvg-id="53451956" tvg-name="AL: Tring Sport 3 ᴴᴰ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 3 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1171
+#EXTINF:-1 tvg-id="53451957" tvg-name="AL: Tring Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 4 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30156
+#EXTINF:-1 tvg-id="53451957" tvg-name="AL: Tring Sport 4 ᴴᴰ" tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 4 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1172
+#EXTINF:-1 tvg-id="53451959" tvg-name="AL: Tring Sport 5 ᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 5 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/103300
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 6 ᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 6 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/110927
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 7 ᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 7 ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/110928
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 ⁴ᴷ" tvg-logo="//tvlogi/Kujtesa%20Sport%201.png" group-title="CHANNEL | WORLD SPORT",AL: Kujtesa Sport 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30162
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 ⁴ᴷ" tvg-logo="//tvlogi/Kujtesa%20Sport%202.png" group-title="CHANNEL | WORLD SPORT",AL: Kujtesa Sport 2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30163
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 ⁴ᴷ" tvg-logo="//tvlogi/Kujtesa%20Sport%203.png" group-title="CHANNEL | WORLD SPORT",AL: Kujtesa Sport 3 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30164
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 ⁴ᴷ" tvg-logo="//tvlogi/Kujtesa%20Sport%204.png" group-title="CHANNEL | WORLD SPORT",AL: Kujtesa Sport 4 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/30165
+#EXTINF:-1 tvg-id="" tvg-name="AL: Partizani Channel" tvg-logo="https://apps.tibo.tv/1/files/channels/1669123361504partizanichannel240x240px.png" group-title="CHANNEL | WORLD SPORT",AL: Partizani Channel
+http://iptvworldshqip.xyz:8080/dane/dane1/91848
+#EXTINF:-1 tvg-id="27258390" tvg-name="AL: RTSH Sport ⁴ᴷ" tvg-logo="https://apps.tibo.tv/1/files/channels/16687836552981614354602030RTSHSport.png" group-title="CHANNEL | WORLD SPORT",AL: RTSH Sport ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/77129
+#EXTINF:-1 tvg-id="27258390" tvg-name="AL: RTSH Sport ᴴᴰ" tvg-logo="https://i.imgur.com/x7iQOm1.png" group-title="CHANNEL | WORLD SPORT",AL: RTSH Sport ᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/1887
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgx-xvryFS0zUfG2FSjxzspDMfH4eeoCLevTBGbb8BieOA.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga ᵁᴴᴰ ⁺ ᴴᴰᴿ
+http://iptvworldshqip.xyz:8080/dane/dane1/103478
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/86266
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport ᵁᴴᴰ ⁺ ᴴᴰᴿ
+http://iptvworldshqip.xyz:8080/dane/dane1/86257
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Ziggoo Sport ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Ziggoo Sport ᵁᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/89828
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: TNT Ultimate ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: TNT Ultimate ᵁᴴᴰ ⁺ ᴴᴰᴿ
+http://iptvworldshqip.xyz:8080/dane/dane1/98362
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Prima Sport ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Prima Sport ᵁᴴᴰ ⁺ ᴴᴰᴿ
+http://iptvworldshqip.xyz:8080/dane/dane1/98361
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/86258
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/86268
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/86269
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 2 ⁴ᵏ ᵁᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/86270
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Blue Sport Zoom D ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Blue Sport Zoom D ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/89829
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Blue Sport Zoom F ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Blue Sport Zoom F ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103738
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="Sports: DAZN Sport 1 DE FHD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gDdWWP3PR2eIhLb0AEmV2gAAAA&pid=Api&P=0&h=220" group-title="CHANNEL | WORLD SPORT",Sports: DAZN Sport 1 DE FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/103479
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="Sports: DAZN Sport 2 DE FHD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0crcErxXKurWScvW-rq9fwHaD0&pid=Api&P=0&h=220" group-title="CHANNEL | WORLD SPORT",Sports: DAZN Sport 2 DE FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/103480
+#EXTINF:-1 tvg-id="" tvg-name="Sports: DAZN Sport 1 DE HD" tvg-logo="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXnxfdi0Ns8kdRPz6kJBLKkyc_QmoIdArQdXpRmeqmvE8I.png" group-title="CHANNEL | WORLD SPORT",Sports: DAZN Sport 1 DE HD
+http://iptvworldshqip.xyz:8080/dane/dane1/114345
+#EXTINF:-1 tvg-id="" tvg-name="Sports: DAZN Sport 2 DE HD" tvg-logo="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXnxfdi0Ns8kdRPz6kJBLKkyePCeKNOTaHd0p4qj8u1RG_.png" group-title="CHANNEL | WORLD SPORT",Sports: DAZN Sport 2 DE HD
+http://iptvworldshqip.xyz:8080/dane/dane1/114344
+#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="Sky Sport Bundesliga ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103468
+#EXTINF:-1 tvg-id="skysportbundesliga1.de" tvg-name="Sky Sport Bundesliga 1 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgzU5UB7aocLzJhc0e9D1zXvuXo71DzpjKy62vbPuH54pw.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103469
+#EXTINF:-1 tvg-id="skysportbundesliga2.de" tvg-name="Sky Sport Bundesliga 2 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgx7M_sZQrpzGxSd4ouzXqWpSpjF8V1YVteyh3itW--LIQ.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103470
+#EXTINF:-1 tvg-id="skysportbundesliga3.de" tvg-name="Sky Sport Bundesliga 3 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgzwdKZiKtQrq3vMK18hkiajyFkGLeyUf4fhs0SjPr5SnQ.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 3 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103471
+#EXTINF:-1 tvg-id="skysportbundesliga4.de" tvg-name="Sky Sport Bundesliga 4 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgx57sSqIB5UkP4AkbMSUiSGYwufe_szzy10iAXyIjYoZg.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 4 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103472
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 5 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86591
+#EXTINF:-1 tvg-id="skysportbundesliga6.de" tvg-name="Sky Sport Bundesliga 6 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgw5ehaOgUzJZgvXvPV1iegJAl74ph2pMidR-i6XAYwxgQ.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 6 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103473
+#EXTINF:-1 tvg-id="skysportbundesliga7.de" tvg-name="Sky Sport Bundesliga 7 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgz1ZsFGB7vLfDegh_kxziF5YPU58mt9Qt7Lx2Kg51ZeUg.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 7 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103474
+#EXTINF:-1 tvg-id="skysportbundesliga8.de" tvg-name="Sky Sport Bundesliga 8 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgyhNLrlWUle6w5Bvsp9KHsDFr0fpWTpbjr_YPG5mJ61rg.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 8 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103475
+#EXTINF:-1 tvg-id="skysportbundesliga9.de" tvg-name="Sky Sport Bundesliga 9 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgzvAF1lmY2P3nFwinfTg-id.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 9 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103476
+#EXTINF:-1 tvg-id="skysportbundesliga10.de" tvg-name="Sky Sport Bundesliga 10 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgziIeBVkqpVOuAUYRyOURF16aVxh3Jsnoc-sqRytFOF-Q.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 10 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/103477
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sportdigital Fusball | DE ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sportdigital Fusball | DE ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/86686
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport 1 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86293
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport 2 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86294
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport 3 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86295
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport 4 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86296
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: M+ La Liga TV 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: M+ La Liga TV 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/88343
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 1 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86376
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 2 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86377
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 3 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86378
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 4 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86379
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 5 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86380
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 6 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 6 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86381
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Prime ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports Prime ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86578
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 1 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86580
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 2 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86581
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 3 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86582
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 4 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86583
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 5 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86584
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 6 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 6 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86585
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 7 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 7 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86586
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Plus ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports Plus ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86579
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 1 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86271
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 2 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86272
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 3 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86273
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 4 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86274
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 5 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86275
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 1 ⁴ᵏ PL" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 1 ⁴ᵏ PL
+http://iptvworldshqip.xyz:8080/dane/dane1/86282
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 2 ⁴ᵏ PL" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 2 ⁴ᵏ PL
+http://iptvworldshqip.xyz:8080/dane/dane1/86283
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 3 ⁴ᵏ PL" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 3 ⁴ᵏ PL
+http://iptvworldshqip.xyz:8080/dane/dane1/86284
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 4 ⁴ᵏ PL" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 4 ⁴ᵏ PL
+http://iptvworldshqip.xyz:8080/dane/dane1/86285
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE
+http://iptvworldshqip.xyz:8080/dane/dane1/86286
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE
+http://iptvworldshqip.xyz:8080/dane/dane1/86287
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE
+http://iptvworldshqip.xyz:8080/dane/dane1/86288
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 1 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86297
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 2 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86298
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 3 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86299
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 4 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86300
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 5 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86301
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 6 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 6 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86302
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 1 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 1 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/111078
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 1 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 1 HD
+http://iptvworldshqip.xyz:8080/dane/dane1/111085
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 2 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 2 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/111079
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 2 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 2 HD
+http://iptvworldshqip.xyz:8080/dane/dane1/111086
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 3 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 3 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/111080
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 3 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 3 HD
+http://iptvworldshqip.xyz:8080/dane/dane1/111087
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 4 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 4 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/111081
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 4 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 4 HD
+http://iptvworldshqip.xyz:8080/dane/dane1/111088
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 5 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 5 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/111082
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 5 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 5 HD
+http://iptvworldshqip.xyz:8080/dane/dane1/111089
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 6 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 6 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/111083
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 6 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 6 HD
+http://iptvworldshqip.xyz:8080/dane/dane1/111090
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 7 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 7 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/111084
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 7 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 7 HD
+http://iptvworldshqip.xyz:8080/dane/dane1/111091
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium 1 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86382
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium 2 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86383
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium PPV 3 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86384
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium PPV 4 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86385
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium PPV 5 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86386
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 6 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium PPV 6 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86387
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 1 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 1 | PT ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/86507
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 2 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 2 | PT ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/86508
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 3 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 3 | PT ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/86509
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 4 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 4 | PT ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/86510
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 5 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 5 | PT ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/86511
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 6 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 6 | PT ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/86512
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Digi Sport 1 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86413
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Digi Sport 2 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86414
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Digi Sport 3 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86415
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Digi Sport 4 ⁴ᵏ
+http://iptvworldshqip.xyz:8080/dane/dane1/86416
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass ⁴ᴷ" tvg-logo="" group-title="England - Uk",UK: UFC Fight Pass ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/81429
+#EXTINF:-1 tvg-id="" tvg-name="FR: InfoSport+ ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: InfoSport+ ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80308
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80299
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80300
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 3 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80301
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 4 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80302
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 5 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 5 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80303
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 7 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 7 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80304
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 8 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 8 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80305
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 9 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 9 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80306
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 10 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 10 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80307
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn LaLiga ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn LaLiga ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80255
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80257
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 2 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn 2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80258
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 3 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn 3 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80259
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 4 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn 4 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80260
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn F1 ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn F1 ᵁᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/80256
+#EXTINF:-1 tvg-id="" tvg-name="AU: ORF Sport+ ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: ORF Sport+ ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80291
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80292
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 2 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80293
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 3 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 3 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80294
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 4 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 4 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80295
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 5 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 5 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80296
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 6 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 6 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80297
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 7 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 7 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80298
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport HD
+http://iptvworldshqip.xyz:8080/dane/dane1/11313
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Extra 2 ᶠᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Extra 2 ᶠᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/2293
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Golf" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Golf
+http://iptvworldshqip.xyz:8080/dane/dane1/8964
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Racing
+http://iptvworldshqip.xyz:8080/dane/dane1/8965
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Select
+http://iptvworldshqip.xyz:8080/dane/dane1/8967
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Select HD
+http://iptvworldshqip.xyz:8080/dane/dane1/11291
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Racing HD
+http://iptvworldshqip.xyz:8080/dane/dane1/11678
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport 2 EXTRA  HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Polsat Sport 2 EXTRA  HD
+http://iptvworldshqip.xyz:8080/dane/dane1/11410
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport FIGHT HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Polsat Sport FIGHT HD
+http://iptvworldshqip.xyz:8080/dane/dane1/11404
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Canal+ Sport HD
+http://iptvworldshqip.xyz:8080/dane/dane1/9508
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Canal+ Sport 2 HD
+http://iptvworldshqip.xyz:8080/dane/dane1/11411
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 3 ᶠᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Canal+ Sport 3 ᶠᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/51961
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 4 ᶠᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Canal+ Sport 4 ᶠᴴᴰ
+http://iptvworldshqip.xyz:8080/dane/dane1/51962
+#EXTINF:-1 tvg-id="" tvg-name="RU: MATCH FUTBOL 1 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",RU: MATCH FUTBOL 1 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/11275
+#EXTINF:-1 tvg-id="" tvg-name="RU: MATCH FUTBOL 2 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",RU: MATCH FUTBOL 2 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/11276
+#EXTINF:-1 tvg-id="" tvg-name="RU: MATCH FUTBOL 3 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",RU: MATCH FUTBOL 3 FHD
+http://iptvworldshqip.xyz:8080/dane/dane1/11277
+#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",CH: BlueSport 1 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80177
+#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 2 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",CH: BlueSport 2 ⁴ᴷ
+http://iptvworldshqip.xyz:8080/dane/dane1/80178
+#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 1 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 1 ᶠᴴᴰ (CH)
+http://iptvworldshqip.xyz:8080/dane/dane1/13504
+#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 2 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 2 ᶠᴴᴰ (CH)
+http://iptvworldshqip.xyz:8080/dane/dane1/13503
+#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 3 FHD (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 3 FHD (CH)
+http://iptvworldshqip.xyz:8080/dane/dane1/13502
+#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 4 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 4 ᶠᴴᴰ (CH)
+http://iptvworldshqip.xyz:8080/dane/dane1/13501
+#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 5 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 5 ᶠᴴᴰ (CH)
+http://iptvworldshqip.xyz:8080/dane/dane1/13500
+#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 6 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 6 ᶠᴴᴰ (CH)
+http://iptvworldshqip.xyz:8080/dane/dane1/13499
+#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 7 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 7 ᶠᴴᴰ (CH)
+http://iptvworldshqip.xyz:8080/dane/dane1/13498
+#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 8 FHD (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 8 FHD (CH)
+http://iptvworldshqip.xyz:8080/dane/dane1/13497
