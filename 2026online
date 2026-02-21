@@ -711,13 +711,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="10" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png",TransTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-
-
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png",Trans7 (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
@@ -813,20 +806,21 @@ https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="CHANNEL | INDONESIA"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png", Sindonews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="CHANNEL | INDONESIA",RTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="CHANNEL | INDONESIA", RTV (V+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
-
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" ch-number="15" tvg-logo="https://images.indihometv.com/logo_beritasatu_ver4.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_beritasatu_ver4.png" group-title="CHANNEL | INDONESIA",BTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=1.0.0.1" group-title="CHANNEL | INDONESIA" tvg-id="IndonesianaTV.id" tvg-name="03. TV Nasional 2", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
@@ -840,19 +834,19 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="CHANNEL | INDONESIA", CNBC
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1457300562_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="CHANNEL | INDONESIA",CNBC Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
-
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-name="" tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_bloomberg_big1.png", Bloomberg HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678 
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
-
-
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bloomberg_big1.png" group-title="CHANNEL | INDONESIA",Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
 
 
@@ -1347,25 +1341,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 SINGAPURA
 
 
@@ -1373,11 +1348,97 @@ SINGAPURA
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SINGAPORE
 
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="CHANNEL | SINGAPORE", Channel 5 
-http://cdn6.163189.xyz/163189/ch5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-logo="" group-title="CHANNEL | SINGAPORE",Channel 5 
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/960px-Mediacorp_Channel_8_2023.svg.png" group-title="CHANNEL | SINGAPORE", Channel 8 
-http://cdn6.163189.xyz/163189/ch8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-logo="" group-title="CHANNEL | SINGAPORE",Channel 8
+https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-logo="" group-title="CHANNEL | SINGAPORE",Channel U 
+https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-logo="" group-title="CHANNEL | SINGAPORE",Suria 
+https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
+#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-logo="" group-title="CHANNEL | SINGAPORE",Vasantham 
+https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="556893" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358834'&EntityType='Item'&EntityId='556893'&Width=350&Height=250" group-title="CHANNEL | SINGAPORE",Kartoon Channel!
+https://d29ecfnk3jwkp9.cloudfront.net/out/v1/f246ce87793444d9bbbc56f244ec3c2c/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="556877" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358838'&EntityType='Item'&EntityId='556877'&Width=264&Height=250" group-title="CHANNEL | SINGAPORE",TG Junior
+https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="556894" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358842'&EntityType='Item'&EntityId='556894'&Width=304&Height=250" group-title="CHANNEL | SINGAPORE",Action Hollywood Movies
+https://d29ecfnk3jwkp9.cloudfront.net/out/v1/e338860b57fe4c40bed6e9ca38896a78/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187" group-title="CHANNEL | SINGAPORE",NOW 80s
+https://tglmp02.akamaized.net/out/v1/e9318eedbe1847f8924a3fcfb1b93648/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158964" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510620'&EntityType='Item'&EntityId='158964'&Width=193&Height=187" group-title="CHANNEL | SINGAPORE",NOW 70s
+https://tglmp03.akamaized.net/out/v1/f904e7d47bd245efb58c55581e5acf71/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187" group-title="CHANNEL | SINGAPORE",NOW Rock
+https://tglmp04.akamaized.net/out/v1/7c6aa1207e91478dbbce70d35e40b61b/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNA" group-title="CHANNEL | SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515", CNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/605
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=  :
+
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="CHANNEL | SINGAPORE",meWATCH 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/LIjBhc9.png" group-title="CHANNEL | SINGAPORE",meWATCH 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+#EXTINF:-1 group-title="CHANNEL | SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 1 (SGP)
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="CHANNEL | SINGAPORE" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 2 (SGP)
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel U" tvg-logo="https://dam.mediacorp.sg/image/upload/v1/mediacorp/corporate/image/2025/05/13/channel_u_horizontal_rgb.png" group-title="CHANNEL | SINGAPORE", Channel U
 http://cdn6.163189.xyz/163189/chu
@@ -1403,39 +1464,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="CHANNEL | SINGAPORE",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3181,114 +3209,6 @@ http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HUB2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6t_N7tKZe2AKHOr_bSs_N5WeN0qoG-R-7hx33lqFA1xRfvbV0uYcPiY&s=10" group-title="LIVE | BADMINTON 2026", BACT ASIA 3
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280828
 
-
-
-
-
-
-
-
-
-=======================================LIVE SEA GAMES 2025==========================================================================
-=====================================
-#EXTINF:-1 group-logo="https://docdog.top/logo/countries/germany/new/DAZN_DE_DAZN_1.png",group-title="LIVE | DAZN SPORT"
-
-#EXTINF:-1 tvg-id="" tvg-name="!T: SKY DAZN ZONA 1 HEVC H.265" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: SKY DAZN ZONA 1 HEVC H.265
-http://iptvworldshqip.xyz:8080/dane/dane1/101647
-#EXTINF:-1 tvg-id="" tvg-name="!T: SKY DAZN ZONA 1 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: SKY DAZN ZONA 1 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101648
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN SPORT SERIE A 1 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN SPORT SERIE A 1 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101785
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN SPORT SERIE A 2 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN SPORT SERIE A 2 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101788
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN SPORT SERIE A 3 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN SPORT SERIE A 3 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101786
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN SPORT SERIE A 4 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN SPORT SERIE A 4 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101787
-#EXTINF:-1 tvg-id="" tvg-name="!T: VETRINA DAZN SPORT H265" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: VETRINA DAZN SPORT H265
-http://iptvworldshqip.xyz:8080/dane/dane1/86417
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 1 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 1 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101565
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 2 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 2 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101567
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 3 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 3 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101568
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 4 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 4 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101579
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 5 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 5 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101569
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 7 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 7 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101571
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 6 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 6 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101570
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 8 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 8 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101572
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 9 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 9 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101573
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 10 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 10 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101566
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 11 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 11 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101575
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 12 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 12 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101574
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 13 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 13 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101576
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 14 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 14 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101577
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN WEB 15 FULL HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN WEB 15 FULL HD
-http://iptvworldshqip.xyz:8080/dane/dane1/101578
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN Diretta Gol Serie A Full HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN Diretta Gol Serie A Full HD
-http://iptvworldshqip.xyz:8080/dane/dane1/86429
-#EXTINF:-1 tvg-id="" tvg-name="!T: DAZN Diretta Gol Serie B Full HD" tvg-logo="" group-title="LIVE | DAZN SPORT",!T: DAZN Diretta Gol Serie B Full HD
-http://iptvworldshqip.xyz:8080/dane/dane1/86430
-
-
-=======================================LIVE SEA GAMES 2025==========================================================================
-=====================================
-#EXTINF:-1 group-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250",LIVE | SEA GAMES 2025
-
-
-#EXTINF:-1 group-title="LIVE | SEA GAMES 2025" tvg-id="UEFA" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg", SPORTSTARS 2 (TVOD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-
-#EXTINF:-1  tvg-id="576059" group-title="LIVE | SEA GAMES 2025" tvg-logo="https://www.visionplus.id/images/repository/998/598998-LOGO-m.png", SEA Games 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
-
-#EXTINF:-1  tvg-id="576060" group-title="LIVE | SEA GAMES 2025" tvg-logo="https://www.visionplus.id/images/repository/199/598199-LOGO-m.png", SEA Games 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
-
-#EXTINF:-1  tvg-id="576061" group-title="LIVE | SEA GAMES 2025" tvg-logo="https://www.visionplus.id/images/repository/201/598201-LOGO-m.png", SEA Games 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
-#EXTINF:-1  tvg-id="580750" group-title="LIVE | SEA GAMES 2025" tvg-logo="https://www.visionplus.id/images/repository/202/598202-LOGO-m.png", SEA Games 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
-
-#EXTINF:-1  tvg-id="576059" group-title="LIVE | SEA GAMES 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://ls-mp03.eo-edgefunctions7.com/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-#EXTINF:-1  tvg-id="576060" group-title="LIVE | SEA GAMES 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298974'&EntityType='Item'&EntityId='576060'&Width=289&Height=250", SEA Games CH02
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://ls-mp01.eo-edgefunctions7.com/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-#EXTINF:-1  tvg-id="576061" group-title="LIVE | SEA GAMES 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298979'&EntityType='Item'&EntityId='576061'&Width=289&Height=250", SEA Games CH03
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://ls-mp02.eo-edgefunctions7.com/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 =======================================LIGA ITALIA==========================================================================
 =====================================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZnHWpyN5JqE7IGJlMC-qSuJg5nr2AhPu17HQBP0jnOnSlZWxikZX3gd&s=10",LIVE | LALIGA
@@ -3392,8 +3312,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=drm
 https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9182&type=dash
 
-
----
 https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=drm 
 https://parlay12.serv00.net/pidio/index.mpd?id=9182&type=dash
 ----
@@ -3415,61 +3333,67 @@ https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=drm
 https://parlay12.serv00.net/pidio/index.mpd?id=9183&type=dash
 ----
 
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIVE | LIGA INGGRIS",Hub Premier1 HD
+https://7pal.short.gy/HPremier1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier1hd/
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title="LIVE | LIGA INGGRIS",Hub Premier2 HD
+https://7pal.short.gy/HPremier2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&extension=ts&play_token=1dWiSXJFZ1
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier2hd/
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="LIVE | LIGA INGGRIS",Hub Premier3 HD
+https://7pal.short.gy/HPremier3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier3hd/
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",Hub Premier 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier4hd/
+#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",Hub Premier 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier5hd/
+#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",Hub Premier 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier6hd/
+#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",Hub Premier 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier7hd/
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",Hub Premier 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="LIVE | LIGA INGGRIS",Hub Premier 1 FHD
-##http://vocotv.pro:80/tatum/tatum/288375
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="LIVE | LIGA INGGRIS",Hub Premier 2 FHD
-##http://vocotv.pro:80/tatum/tatum/288374
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="LIVE | LIGA INGGRIS",Hub Premier 3 FHD
-##http://vocotv.pro:80/tatum/tatum/288373
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="LIVE | LIGA INGGRIS",Hub Premier 4 FHD
-##http://vocotv.pro:80/tatum/tatum/288372
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="LIVE | LIGA INGGRIS",Hub Premier 5 FHD
-##http://vocotv.pro:80/tatum/tatum/288371
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
-
-
-#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1HIGHLIGHT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
 
-#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",CH 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 2
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
-#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 2b
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
-#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 3
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep3.m3u8
-#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://eventcdn01-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 5 FA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://spstr.abntv.live/hls/psstream.m3u8
+
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 2
@@ -3477,9 +3401,11 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep5.m3u8
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep6.m3u8
 #EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
+#EXTINF:-1 group-title="LIVE | LIGA INGGRIS" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep3.m3u8
 
 
 
@@ -3514,114 +3440,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 
-==
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #######################################################################
@@ -3632,719 +3450,80 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | INDIHOME
 
-
-EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png" group-title="CHANNEL | INDIHOME",INDOSIAR
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png" group-title="CHANNEL | INDIHOME",SCTV 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-#EXTINF:-1 tvg-id="18" tvg-logo="https://images.indihometv.com/assets/88_INEWS_2025_03_17_15_13_44.png" group-title="CHANNEL | INDIHOME",iNEWS
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-
-EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MOJI_2025_03_17_15_22_26.png",MOJI
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ANTV_2025_03_17_14_52_46.png",ANTV
-https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_BERITASATU_2025_03_17_15_00_18.png",Berita Satu
-https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest_w607931995_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png",BTV
-https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_METROTV_2025_03_17_14_51_08.png",METROTV
-https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_KOMPASTV_2025_03_17_14_56_36.png",KOMPASTV
-https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png",Nusantara TV
-https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png",RTV
-https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_SINDONEWSTV_2025_03_17_15_14_55.png",SindoNews
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TVONE_2025_03_17_14_49_56.png",TVOne
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png",TVRI
-https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png",Antara
-https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://images.indihometv.com/assets/88_BALI-TV_2025_03_17_15_01_03.png",Bali TV
-https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png",JakTV
-https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png",Jawa Pos TV
-https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png",JTV
-https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",Magna Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ABCAUSTRALIA_2025_03_17_14_50_10.png",ABC Australia
-https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ALJAZEERA_2025_03_17_14_58_14.png",Al Jazeera English
-https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ARIRANG_2025_03_17_14_45_16.png",Arirang
-https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_BLOOMBERG_2025_03_17_15_29_38.png",Bloomberg
-https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_CNA_2025_03_17_14_56_00.png",Channel News Asia
-https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_DWTV_2025_03_17_15_01_10.png",DW English
-https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_EURONEWS_2025_03_17_15_02_11.png",Euronews
-https://cdn08jtedge.indihometv.com/dassdvr/134/euronews720/manifest_w1660491200_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/euronews720/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_FRANCE24_2025_03_17_14_59_11.png",France24
-https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_NHK_2025_03_17_15_34_22.png",NHK World Japan
-https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_SEATODAY_2025_03_17_15_10_12.png",SEA Today
-https://cdn10jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ALLPLAYENT_2025_03_17_15_19_48.png",AllPlay Ent
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_AXN_2025_03_17_15_04_05.png",AXN
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_DUNIALAIN_2025_03_17_14_57_31.png",Dunia Lain
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_KPLUS_2025_03_17_15_17_05.png",K-Plus
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ROCKENTERTAINMENT_2025_03_17_15_03_43.png",Rock Entertainment
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",ATV
-https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_FASHIONTV_2025_03_17_14_55_17.png",FashionTV
-https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_LIFETIME_2025_03_17_14_54_15.png",Lifetime
-https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest_w10939036_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ANIMALPLANET_2025_03_17_15_27_22.png",Animal Planet
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_CGTNDOC_2025_03_17_14_59_03.png",CGTN Documentary
-https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_CURIOSITY_2025_03_17_15_29_20.png",Curiosity
-https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest_w1897293060_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_DISCOVERYASIA_2025_03_17_15_31_07.png",Discovery Asia
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest_w1465869984_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_LOVENATURE_2025_03_17_15_28_20.png",Love Nature
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest_w2098937634_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ANIPLUS_2025_03_17_14_53_54.png",Aniplus
-https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_DAVINCI_2025_03_17_15_00_06.png",Da Vinci
-https://cdn08jtedge.indihometv.com/dassdvr/134/davinci720/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_DUNIANAK_2025_03_17_15_23_57.png",Dunia Anak
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_FUNPLANET_2025_03_17_15_15_54.png",FunPlanet
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MOONBUGKIDS_2025_03_17_15_10_52.png",Moonbug
-https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest_w206397924_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png",My Kidz
-https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
-
-
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_IMC_2025_03_17_14_53_15.png",IMC
-https://cdn08jtedge.indihometv.com/dassdvr/130/imc720/manifest.mpd
-
-#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="CHANNEL | INDIHOME", FLIK Indihome
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MAXSTREAM_2025_03_17_15_26_26.png",Maxstream
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ROCKACTION_2025_03_17_14_48_54.png",Rock Action
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png",Studio Universal
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest_w1324836965_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_THRILL_2025_03_17_14_57_55.png" group-title="CHANNEL | INDIHOME", THRILL
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ZEEBIOSKOP_2025_03_17_15_04_16.png",Zee Bioskop
-https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MTVLIVE_2025_03_17_15_02_31.png",MTV Live
-https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MUSIKINDONESIA_2025_03_17_15_24_16.png",Musik Indonesia
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest_w1796600437_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_PRAMBORS_2025_03_17_15_05_27.png",Prambors
-https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ALQURANALKAREEM_(1)_2025_03_19_08_18_31.png",Al Quran Al Kareem
-https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MQTV_2025_03_17_14_59_27.png",MQTV
-https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MTATV_2025_03_17_14_56_40.png",MTATV
-https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TVMUI_2025_03_17_15_00_12.png",MUI TV
-https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png",Rodja TV
-https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TAWAFTV_2025_03_17_15_00_40.png",Tawaf TV
-https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TV9_2025_03_17_15_01_34.png",TV9 NU
-https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TVMU_2025_03_17_15_03_28.png",TVMu
-https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_UCHANNEL_2025_03_17_15_35_06.png",UChannel
-https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Indosiar 
+http://202.169.224.202:8800/udp/239.9.1.25:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Sctv 
+http://202.169.224.202:8800/udp/239.9.1.29:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",Moji
+http://202.169.224.202:8800/udp/239.9.1.32:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Mnctv 
+http://202.169.224.202:8800/udp/239.9.1.34:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", VTV 
+http://202.169.224.202:8800/udp/239.9.1.39:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Rock action 
+http://202.169.224.202:8800/udp/239.9.1.1:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Rock entertainment 
+http://202.169.224.202:8800/udp/239.9.1.8:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Citra drama 
+http://202.169.224.202:8800/udp/239.9.1.12:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Citra musik 
+http://202.169.224.202:8800/udp/239.9.1.14:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Citra bioskop 
+http://202.169.224.202:8800/udp/239.9.1.15:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Citra entertainment 
+http://202.169.224.202:8800/udp/239.9.1.27:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",Citra Dangdut
+http://202.169.224.202:8800/udp/239.9.1.13:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",Citra Muslim
+http://202.169.224.202:8800/udp/239.9.1.14:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",TVN
+http://202.169.224.202:8800/udp/239.9.1.20:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Kix 
+http://202.169.224.202:8800/udp/239.9.1.21:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", CCM 
+http://202.169.224.202:8800/udp/239.9.1.22:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", CELESTIAL movie 
+http://202.169.224.202:8800/udp/239.9.1.23:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", IDX 
+http://202.169.224.202:8800/udp/239.9.1.36:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", NEX 
+http://202.169.224.202:8800/udp/239.9.1.32:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Hip hip hoore 
+http://202.169.224.202:8800/udp/239.9.1.28:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",Dreamwork
+http://202.169.224.202:8800/udp/239.9.1.19:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Horee 
+http://202.169.224.202:8800/udp/239.9.1.26:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Nickeledeon 
+http://202.169.224.202:8800/udp/239.9.1.17:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Nick.jr 
+http://202.169.224.202:8800/udp/239.9.1.18:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Champion 1 
+http://202.169.224.202:8800/udp/239.9.1.9:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Champion 2 
+http://202.169.224.202:8800/udp/239.9.1.10:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Champion 3 
+http://202.169.224.202:8800/udp/239.9.1.11:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", BBC lifestyle 
+http://202.169.224.202:8800/udp/239.9.1.31:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", BBC eartt 
+http://202.169.224.202:8800/udp/239.9.1.30:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", HGTV 
+http://202.169.224.202:8800/udp/239.9.1.3:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", NHK world 
+http://202.169.224.202:8800/udp/239.9.1.2:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", TLC 
+http://202.169.224.202:8800/udp/239.9.1.4:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Food network 
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Discovery 
+http://202.169.224.202:8800/udp/239.9.1.6:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME", Animal Planet 
+http://202.169.224.202:8800/udp/239.9.1.7:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",AFN
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+#EXTINF:-1 tvg-logo="https://upload.bestv.my.id/0KPBj1MovX" group-title="CHANNEL | INDIHOME",BBC news
+http://202.169.224.202:8800/udp/239.9.1.24:1234
 
 
 
@@ -4713,11 +3892,6 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CHANNEL | FIRSTMEDIA",HGTV 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="CHANNEL | FIRSTMEDIA",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -5346,6 +4520,9 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KNOWLEDGE
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CHANNEL | KNOWLEDGE", HGTV 
+http://202.169.224.202:8800/udp/239.9.1.3:1234
 
 #EXTINF:-1 tvg-id="Discovery.Channel.id" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="CHANNEL | KNOWLEDGE",DISCOVERY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6820,13 +5997,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png" group-title="CHANNEL | VISION+",ANTV
 https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVapQVSVsIweoWpfpUcwU1od2hb8PtzQa0kV24Rpg_6wV45523L3QSaeXmAgDKlLSaVv15BnXvjP9nj6OggMpQpnPUnOTqsDE28BopevlSXrFY-v4R2l1hElLZNidZbdGnTlV_WfMkVIxIvyStXztCDROscV6WYj3ugO1q9pREWJp1ekgnnLItS102EyMH/s700/RTV.png" group-title="CHANNEL | VISION+",RTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8622,375 +7792,3 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 ########WORLD-SPORT#########
 
 EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | WORLD SPORT
-
-#EXTINF:-1 tvg-id="ARTSPORT 1_fillgaps" tvg-name="AL: ART Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/kg8CP5X8/ART-Sport-1-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/89515
-#EXTINF:-1 tvg-id="ARTSPORT 2_fillgaps" tvg-name="AL: ART Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/27qtP6wx/ART-Sport-2-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/89516
-#EXTINF:-1 tvg-id="ARTSPORT 3_fillgaps" tvg-name="AL: ART Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/mVTnncdt/ART-Sport-3-AL-logo-v3.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 3 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/89517
-#EXTINF:-1 tvg-id="ARTSPORT 4_fillgaps" tvg-name="AL: ART Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/jkdHW8X5/ART-Sport-4-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 4 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/89518
-#EXTINF:-1 tvg-id="ARTSPORT 5_fillgaps" tvg-name="AL: ART Sport 5 ⁴ᴷ" tvg-logo="https://i.ibb.co/zhDBxm58/ART-Sport-5-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 5 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/89519
-#EXTINF:-1 tvg-id="ARTSPORT 6_fillgaps" tvg-name="AL: ART Sport 6 ⁴ᴷ" tvg-logo="https://i.ibb.co/xtCmqdgG/ART-Sport-6-AL-logo-v2.png" group-title="CHANNEL | WORLD SPORT",AL: ART Sport 6 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/89520
-#EXTINF:-1 tvg-id="759825" tvg-name="AL: SS-1 ⁴ᴷ" tvg-logo="https://i.ibb.co/5XCXJp9c/upload-912-759825.png" group-title="CHANNEL | WORLD SPORT",AL: SS-1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/43729
-#EXTINF:-1 tvg-id="759825" tvg-name="AL: SS-1 ᴴᴰ" tvg-logo="https://i.ibb.co/5XCXJp9c/upload-912-759825.png" group-title="CHANNEL | WORLD SPORT",AL: SS-1 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1146
-#EXTINF:-1 tvg-id="758172" tvg-name="AL: SS-2 ⁴ᴷ" tvg-logo="https://i.ibb.co/Z1KqnZy1/upload-558-758172.png" group-title="CHANNEL | WORLD SPORT",AL: SS-2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/43728
-#EXTINF:-1 tvg-id="758172" tvg-name="AL: SS-2 ᴴᴰ" tvg-logo="https://i.ibb.co/Z1KqnZy1/upload-558-758172.png" group-title="CHANNEL | WORLD SPORT",AL: SS-2 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1148
-#EXTINF:-1 tvg-id="759827" tvg-name="AL: SS-3 ⁴ᴷ" tvg-logo="https://i.ibb.co/CKxS8LXH/upload-240-759827.png" group-title="CHANNEL | WORLD SPORT",AL: SS-3 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/43727
-#EXTINF:-1 tvg-id="759827" tvg-name="AL: SS-3 ᴴᴰ" tvg-logo="https://i.ibb.co/CKxS8LXH/upload-240-759827.png" group-title="CHANNEL | WORLD SPORT",AL: SS-3 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1150
-#EXTINF:-1 tvg-id="759876" tvg-name="AL: SS-4 ⁴ᴷ" tvg-logo="https://i.ibb.co/chX5F4pq/upload-484-759876.png" group-title="CHANNEL | WORLD SPORT",AL: SS-4 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/43726
-#EXTINF:-1 tvg-id="759876" tvg-name="AL: SS-4 ᴴᴰ" tvg-logo="https://i.ibb.co/chX5F4pq/upload-484-759876.png" group-title="CHANNEL | WORLD SPORT",AL: SS-4 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1152
-#EXTINF:-1 tvg-id="759882" tvg-name="AL: SS-5 ⁴ᴷ" tvg-logo="https://i.ibb.co/KpNFsr2Y/upload-841-759882.png" group-title="CHANNEL | WORLD SPORT",AL: SS-5 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/43725
-#EXTINF:-1 tvg-id="759882" tvg-name="AL: SS-5 ᴴᴰ" tvg-logo="https://i.ibb.co/KpNFsr2Y/upload-841-759882.png" group-title="CHANNEL | WORLD SPORT",AL: SS-5 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1153
-#EXTINF:-1 tvg-id="759884" tvg-name="AL: SS-6 ⁴ᴷ" tvg-logo="https://i.ibb.co/WNQw1xvx/upload-931-759884.png" group-title="CHANNEL | WORLD SPORT",AL: SS-6 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/43724
-#EXTINF:-1 tvg-id="759884" tvg-name="AL: SS-6 ᴴᴰ" tvg-logo="https://i.ibb.co/WNQw1xvx/upload-931-759884.png" group-title="CHANNEL | WORLD SPORT",AL: SS-6 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/2704
-#EXTINF:-1 tvg-id="SuperSport 7" tvg-name="AL: SS-7 ᴴᴰ" tvg-logo="https://i.ibb.co/27FHqKQK/upload-747-759886.png" group-title="CHANNEL | WORLD SPORT",AL: SS-7 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/78732
-#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring Sport News ⁴ᴷ" tvg-logo="https://i.ibb.co/s2HzjXY/svgexport-1-1.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport News ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30157
-#EXTINF:-1 tvg-id="53451954" tvg-name="AL: Tring Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30153
-#EXTINF:-1 tvg-id="53451954" tvg-name="AL: Tring Sport 1 ᴴᴰ" tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 1 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1169
-#EXTINF:-1 tvg-id="53451955" tvg-name="AL: Tring Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30154
-#EXTINF:-1 tvg-id="53451955" tvg-name="AL: Tring Sport 2 ᴴᴰ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 2 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1170
-#EXTINF:-1 tvg-id="53451956" tvg-name="AL: Tring Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 3 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30155
-#EXTINF:-1 tvg-id="53451956" tvg-name="AL: Tring Sport 3 ᴴᴰ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 3 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1171
-#EXTINF:-1 tvg-id="53451957" tvg-name="AL: Tring Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 4 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30156
-#EXTINF:-1 tvg-id="53451957" tvg-name="AL: Tring Sport 4 ᴴᴰ" tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 4 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1172
-#EXTINF:-1 tvg-id="53451959" tvg-name="AL: Tring Sport 5 ᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 5 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/103300
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 6 ᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 6 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/110927
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 7 ᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AL: Tring Sport 7 ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/110928
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 ⁴ᴷ" tvg-logo="//tvlogi/Kujtesa%20Sport%201.png" group-title="CHANNEL | WORLD SPORT",AL: Kujtesa Sport 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30162
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 ⁴ᴷ" tvg-logo="//tvlogi/Kujtesa%20Sport%202.png" group-title="CHANNEL | WORLD SPORT",AL: Kujtesa Sport 2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30163
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 ⁴ᴷ" tvg-logo="//tvlogi/Kujtesa%20Sport%203.png" group-title="CHANNEL | WORLD SPORT",AL: Kujtesa Sport 3 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30164
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 ⁴ᴷ" tvg-logo="//tvlogi/Kujtesa%20Sport%204.png" group-title="CHANNEL | WORLD SPORT",AL: Kujtesa Sport 4 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/30165
-#EXTINF:-1 tvg-id="" tvg-name="AL: Partizani Channel" tvg-logo="https://apps.tibo.tv/1/files/channels/1669123361504partizanichannel240x240px.png" group-title="CHANNEL | WORLD SPORT",AL: Partizani Channel
-http://iptvworldshqip.xyz:8080/dane/dane1/91848
-#EXTINF:-1 tvg-id="27258390" tvg-name="AL: RTSH Sport ⁴ᴷ" tvg-logo="https://apps.tibo.tv/1/files/channels/16687836552981614354602030RTSHSport.png" group-title="CHANNEL | WORLD SPORT",AL: RTSH Sport ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/77129
-#EXTINF:-1 tvg-id="27258390" tvg-name="AL: RTSH Sport ᴴᴰ" tvg-logo="https://i.imgur.com/x7iQOm1.png" group-title="CHANNEL | WORLD SPORT",AL: RTSH Sport ᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/1887
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgx-xvryFS0zUfG2FSjxzspDMfH4eeoCLevTBGbb8BieOA.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga ᵁᴴᴰ ⁺ ᴴᴰᴿ
-http://iptvworldshqip.xyz:8080/dane/dane1/103478
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/86266
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport ᵁᴴᴰ ⁺ ᴴᴰᴿ
-http://iptvworldshqip.xyz:8080/dane/dane1/86257
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Ziggoo Sport ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Ziggoo Sport ᵁᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/89828
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: TNT Ultimate ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: TNT Ultimate ᵁᴴᴰ ⁺ ᴴᴰᴿ
-http://iptvworldshqip.xyz:8080/dane/dane1/98362
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Prima Sport ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Prima Sport ᵁᴴᴰ ⁺ ᴴᴰᴿ
-http://iptvworldshqip.xyz:8080/dane/dane1/98361
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/86258
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/86268
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/86269
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 2 ⁴ᵏ ᵁᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/86270
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Blue Sport Zoom D ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Blue Sport Zoom D ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/89829
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Blue Sport Zoom F ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Blue Sport Zoom F ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103738
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="Sports: DAZN Sport 1 DE FHD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gDdWWP3PR2eIhLb0AEmV2gAAAA&pid=Api&P=0&h=220" group-title="CHANNEL | WORLD SPORT",Sports: DAZN Sport 1 DE FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/103479
-#EXTINF:-1 tvg-id="dazn2.de" tvg-name="Sports: DAZN Sport 2 DE FHD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.0crcErxXKurWScvW-rq9fwHaD0&pid=Api&P=0&h=220" group-title="CHANNEL | WORLD SPORT",Sports: DAZN Sport 2 DE FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/103480
-#EXTINF:-1 tvg-id="" tvg-name="Sports: DAZN Sport 1 DE HD" tvg-logo="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXnxfdi0Ns8kdRPz6kJBLKkyc_QmoIdArQdXpRmeqmvE8I.png" group-title="CHANNEL | WORLD SPORT",Sports: DAZN Sport 1 DE HD
-http://iptvworldshqip.xyz:8080/dane/dane1/114345
-#EXTINF:-1 tvg-id="" tvg-name="Sports: DAZN Sport 2 DE HD" tvg-logo="https://ptvs.live:443/images/eGqxKQFYBvdaZ1gtJTHXnxfdi0Ns8kdRPz6kJBLKkyePCeKNOTaHd0p4qj8u1RG_.png" group-title="CHANNEL | WORLD SPORT",Sports: DAZN Sport 2 DE HD
-http://iptvworldshqip.xyz:8080/dane/dane1/114344
-#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="Sky Sport Bundesliga ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103468
-#EXTINF:-1 tvg-id="skysportbundesliga1.de" tvg-name="Sky Sport Bundesliga 1 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgzU5UB7aocLzJhc0e9D1zXvuXo71DzpjKy62vbPuH54pw.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103469
-#EXTINF:-1 tvg-id="skysportbundesliga2.de" tvg-name="Sky Sport Bundesliga 2 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgx7M_sZQrpzGxSd4ouzXqWpSpjF8V1YVteyh3itW--LIQ.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103470
-#EXTINF:-1 tvg-id="skysportbundesliga3.de" tvg-name="Sky Sport Bundesliga 3 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgzwdKZiKtQrq3vMK18hkiajyFkGLeyUf4fhs0SjPr5SnQ.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 3 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103471
-#EXTINF:-1 tvg-id="skysportbundesliga4.de" tvg-name="Sky Sport Bundesliga 4 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgx57sSqIB5UkP4AkbMSUiSGYwufe_szzy10iAXyIjYoZg.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 4 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103472
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 5 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86591
-#EXTINF:-1 tvg-id="skysportbundesliga6.de" tvg-name="Sky Sport Bundesliga 6 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgw5ehaOgUzJZgvXvPV1iegJAl74ph2pMidR-i6XAYwxgQ.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 6 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103473
-#EXTINF:-1 tvg-id="skysportbundesliga7.de" tvg-name="Sky Sport Bundesliga 7 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgz1ZsFGB7vLfDegh_kxziF5YPU58mt9Qt7Lx2Kg51ZeUg.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 7 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103474
-#EXTINF:-1 tvg-id="skysportbundesliga8.de" tvg-name="Sky Sport Bundesliga 8 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgyhNLrlWUle6w5Bvsp9KHsDFr0fpWTpbjr_YPG5mJ61rg.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 8 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103475
-#EXTINF:-1 tvg-id="skysportbundesliga9.de" tvg-name="Sky Sport Bundesliga 9 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgzvAF1lmY2P3nFwinfTg-id.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 9 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103476
-#EXTINF:-1 tvg-id="skysportbundesliga10.de" tvg-name="Sky Sport Bundesliga 10 ⁴ᴷ" tvg-logo="https://ptvs.live:443/images/LjMxooJdLoUjs_tBLxgrVw1O4f3YE8vV9LxQWMdUVgziIeBVkqpVOuAUYRyOURF16aVxh3Jsnoc-sqRytFOF-Q.png" group-title="CHANNEL | WORLD SPORT",Sky Sport Bundesliga 10 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/103477
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sportdigital Fusball | DE ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sportdigital Fusball | DE ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/86686
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport 1 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86293
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport 2 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86294
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport 3 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86295
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Astro SuperSport 4 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86296
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: M+ La Liga TV 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: M+ La Liga TV 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/88343
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 1 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86376
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 2 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86377
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 3 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86378
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 4 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86379
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 5 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86380
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 6 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Premier Leauge 6 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86381
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Prime ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports Prime ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86578
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 1 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86580
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 2 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86581
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 3 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86582
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 4 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86583
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 5 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86584
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 6 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 6 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86585
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 7 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports 7 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86586
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Plus ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK Sports Plus ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86579
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 1 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86271
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 2 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86272
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 3 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86273
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 4 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86274
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Hub Premier 5 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86275
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 1 ⁴ᵏ PL" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 1 ⁴ᵏ PL
-http://iptvworldshqip.xyz:8080/dane/dane1/86282
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 2 ⁴ᵏ PL" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 2 ⁴ᵏ PL
-http://iptvworldshqip.xyz:8080/dane/dane1/86283
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 3 ⁴ᵏ PL" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 3 ⁴ᵏ PL
-http://iptvworldshqip.xyz:8080/dane/dane1/86284
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 4 ⁴ᵏ PL" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Eleven Sports 4 ⁴ᵏ PL
-http://iptvworldshqip.xyz:8080/dane/dane1/86285
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE
-http://iptvworldshqip.xyz:8080/dane/dane1/86286
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE
-http://iptvworldshqip.xyz:8080/dane/dane1/86287
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE
-http://iptvworldshqip.xyz:8080/dane/dane1/86288
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 1 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86297
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 2 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86298
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 3 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86299
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 4 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86300
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 5 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86301
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 6 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: NowHK BeIN 6 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86302
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 1 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 1 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/111078
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 1 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 1 HD
-http://iptvworldshqip.xyz:8080/dane/dane1/111085
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 2 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 2 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/111079
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 2 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 2 HD
-http://iptvworldshqip.xyz:8080/dane/dane1/111086
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 3 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 3 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/111080
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 3 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 3 HD
-http://iptvworldshqip.xyz:8080/dane/dane1/111087
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 4 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 4 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/111081
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 4 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 4 HD
-http://iptvworldshqip.xyz:8080/dane/dane1/111088
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 5 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 5 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/111082
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 5 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 5 HD
-http://iptvworldshqip.xyz:8080/dane/dane1/111089
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 6 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 6 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/111083
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 6 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 6 HD
-http://iptvworldshqip.xyz:8080/dane/dane1/111090
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 7 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 7 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/111084
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: beIN Sports 7 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: beIN Sports 7 HD
-http://iptvworldshqip.xyz:8080/dane/dane1/111091
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium 1 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86382
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium 2 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86383
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium PPV 3 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86384
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium PPV 4 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86385
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 5 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium PPV 5 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86386
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 6 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORT: Polsat Sport Premium PPV 6 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86387
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 1 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 1 | PT ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/86507
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 2 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 2 | PT ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/86508
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 3 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 3 | PT ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/86509
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 4 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 4 | PT ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/86510
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 5 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 5 | PT ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/86511
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 6 | PT ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Sport TV 6 | PT ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/86512
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 1 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Digi Sport 1 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86413
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 2 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Digi Sport 2 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86414
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 3 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Digi Sport 3 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86415
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 4 ⁴ᵏ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",SPORTS: Digi Sport 4 ⁴ᵏ
-http://iptvworldshqip.xyz:8080/dane/dane1/86416
-#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass ⁴ᴷ" tvg-logo="" group-title="LIVE | UFC",UK: UFC Fight Pass ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/81429
-#EXTINF:-1 tvg-id="" tvg-name="FR: InfoSport+ ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: InfoSport+ ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80308
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80299
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80300
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 3 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80301
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 4 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80302
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 5 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 5 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80303
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 7 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 7 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80304
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 8 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 8 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80305
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 9 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 9 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80306
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 10 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",FR: RMC Sport 10 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80307
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn LaLiga ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn LaLiga ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80255
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80257
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 2 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn 2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80258
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 3 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn 3 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80259
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 4 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn 4 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80260
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn F1 ᵁᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",ES: Movistar Dazn F1 ᵁᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/80256
-#EXTINF:-1 tvg-id="" tvg-name="AU: ORF Sport+ ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: ORF Sport+ ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80291
-#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80292
-#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 2 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80293
-#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 3 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 3 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80294
-#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 4 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 4 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80295
-#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 5 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 5 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80296
-#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 6 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 6 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80297
-#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 7 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",AU: Sky Sport Austria 7 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80298
-#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport HD
-http://iptvworldshqip.xyz:8080/dane/dane1/11313
-#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Extra 2 ᶠᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Extra 2 ᶠᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/2293
-#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Golf" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Golf
-http://iptvworldshqip.xyz:8080/dane/dane1/8964
-#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Racing
-http://iptvworldshqip.xyz:8080/dane/dane1/8965
-#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Select
-http://iptvworldshqip.xyz:8080/dane/dane1/8967
-#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Select HD
-http://iptvworldshqip.xyz:8080/dane/dane1/11291
-#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",NL: Ziggo Sport Racing HD
-http://iptvworldshqip.xyz:8080/dane/dane1/11678
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport 2 EXTRA  HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Polsat Sport 2 EXTRA  HD
-http://iptvworldshqip.xyz:8080/dane/dane1/11410
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport FIGHT HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Polsat Sport FIGHT HD
-http://iptvworldshqip.xyz:8080/dane/dane1/11404
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Canal+ Sport HD
-http://iptvworldshqip.xyz:8080/dane/dane1/9508
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Canal+ Sport 2 HD
-http://iptvworldshqip.xyz:8080/dane/dane1/11411
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 3 ᶠᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Canal+ Sport 3 ᶠᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/51961
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 4 ᶠᴴᴰ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",PL: Canal+ Sport 4 ᶠᴴᴰ
-http://iptvworldshqip.xyz:8080/dane/dane1/51962
-#EXTINF:-1 tvg-id="" tvg-name="RU: MATCH FUTBOL 1 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",RU: MATCH FUTBOL 1 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/11275
-#EXTINF:-1 tvg-id="" tvg-name="RU: MATCH FUTBOL 2 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",RU: MATCH FUTBOL 2 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/11276
-#EXTINF:-1 tvg-id="" tvg-name="RU: MATCH FUTBOL 3 FHD" tvg-logo="" group-title="CHANNEL | WORLD SPORT",RU: MATCH FUTBOL 3 FHD
-http://iptvworldshqip.xyz:8080/dane/dane1/11277
-#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 1 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",CH: BlueSport 1 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80177
-#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 2 ⁴ᴷ" tvg-logo="" group-title="CHANNEL | WORLD SPORT",CH: BlueSport 2 ⁴ᴷ
-http://iptvworldshqip.xyz:8080/dane/dane1/80178
-#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 1 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 1 ᶠᴴᴰ (CH)
-http://iptvworldshqip.xyz:8080/dane/dane1/13504
-#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 2 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 2 ᶠᴴᴰ (CH)
-http://iptvworldshqip.xyz:8080/dane/dane1/13503
-#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 3 FHD (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 3 FHD (CH)
-http://iptvworldshqip.xyz:8080/dane/dane1/13502
-#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 4 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 4 ᶠᴴᴰ (CH)
-http://iptvworldshqip.xyz:8080/dane/dane1/13501
-#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 5 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 5 ᶠᴴᴰ (CH)
-http://iptvworldshqip.xyz:8080/dane/dane1/13500
-#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 6 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 6 ᶠᴴᴰ (CH)
-http://iptvworldshqip.xyz:8080/dane/dane1/13499
-#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 7 ᶠᴴᴰ (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 7 ᶠᴴᴰ (CH)
-http://iptvworldshqip.xyz:8080/dane/dane1/13498
-#EXTINF:-1 tvg-id="" tvg-name="VIP:CH: Sky MySports 8 FHD (CH)" tvg-logo="" group-title="CHANNEL | WORLD SPORT",VIP:CH: Sky MySports 8 FHD (CH)
-http://iptvworldshqip.xyz:8080/dane/dane1/13497
-
